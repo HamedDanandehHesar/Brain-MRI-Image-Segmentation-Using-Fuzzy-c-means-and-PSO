@@ -1,4 +1,7 @@
 :::
+<img width="560" height="420" alt="untitled1" src="https://github.com/user-attachments/assets/2670dd50-4ee4-4f6b-ace6-f102a273bfb2" />
+<img width="560" height="420" alt="untitled" src="https://github.com/user-attachments/assets/28ad16d1-36c6-4bd8-92cb-4920b2eb3ed8" />
+
 # Brain MRI Segmentation using Fuzzy C‑Means Optimized by Particle Swarm Optimization (FCM‑PSO)
 
 A MATLAB implementation for **automatic brain MRI tissue segmentation** using a hybrid **Fuzzy C‑Means (FCM)** clustering algorithm optimized with **Particle Swarm Optimization (PSO)**.
